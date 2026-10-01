@@ -1,5 +1,5 @@
 # Reddit Feed
-
+<!-- rebuild -->
 > Reddit. Now literally in front of you.
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/plungarini/reddit-feed-even)
